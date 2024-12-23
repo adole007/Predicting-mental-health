@@ -1,0 +1,81 @@
+PS C:\Users\Tony\Downloads\test_git\test_1> python predict_individual.py
+
+=== Mental Health Risk Prediction ===
+
+Enter name to search (or 'quit' to exit): Christine Barker
+Model loaded from: models\model_20241223_125736_acc_06944.joblib
+Model loaded from: models\model_20241223_125736_acc_06944.joblib
+
+Found 2 entries for Christine Barker:
+
+--- Entry 1 ---
+
+Prediction Results:
+Name: Christine Barker
+Prediction: Not at risk
+
+Individual Details:
+Age: 31
+Marital Status: Married
+Education Level: Bachelor's Degree
+Number of Children: 2
+Smoking Status: Non-smoker
+Physical Activity Level: Active
+Employment Status: Unemployed
+Income: 26265.67
+Alcohol Consumption: Moderate
+Dietary Habits: Moderate
+Sleep Patterns: Fair
+History of Mental Illness: Yes
+History of Substance Abuse: No
+Family History of Depression: Yes
+Chronic Medical Conditions: Yes
+
+--- Entry 2 ---
+
+Prediction Results:
+Name: Christine Barker
+Prediction: Not at risk
+
+Individual Details:
+Age: 46
+Marital Status: Married
+Education Level: Bachelor's Degree
+Number of Children: 0
+Smoking Status: Non-smoker
+Physical Activity Level: Moderate
+Employment Status: Employed
+Income: 70920.64
+Alcohol Consumption: Low
+Dietary Habits: Moderate
+Sleep Patterns: Fair
+History of Mental Illness: Yes
+History of Substance Abuse: No
+Family History of Depression: No
+Chronic Medical Conditions: No
+
+
+Enter name to search (or 'quit' to exit): Shannon Church
+Model loaded from: models\model_20241223_125736_acc_06944.joblib
+Model loaded from: models\model_20241223_125736_acc_06944.joblib
+
+Prediction Results:
+Name: Shannon Church
+Prediction: Not at risk
+
+Individual Details:
+Age: 78
+Marital Status: Widowed
+Education Level: Master's Degree
+Number of Children: 1
+Smoking Status: Non-smoker
+Physical Activity Level: Sedentary
+Employment Status: Employed
+Income: 125332.79
+Alcohol Consumption: Low
+Dietary Habits: Unhealthy
+Sleep Patterns: Good
+History of Mental Illness: No
+History of Substance Abuse: No
+Family History of Depression: Yes
+Chronic Medical Conditions: No
